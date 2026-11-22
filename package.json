@@ -1,0 +1,17 @@
+{
+  "name": "sa-mi-whatsapp-bot",
+  "version": "2.0.0",
+  "description": "Lightweight SA MI WhatsApp Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.6.0"
+  }
+}
